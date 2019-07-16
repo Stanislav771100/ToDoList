@@ -1,0 +1,12 @@
+.mainForm {
+  width:100%;
+}
+.mainCont{
+    margin: 50px auto;
+    background: #9bb0d8;
+    width: 500px;
+    
+    }
+.mainCont input, h2 {
+  margin: 10px;
+    }
