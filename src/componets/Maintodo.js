@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import './Maintodo.css'
-import Addlist from './Addlist';
-import Todo from './Todo';
+import Todolist from './Todolist';
+
 
 class Maintodo extends Component{
     
@@ -9,11 +9,8 @@ class Maintodo extends Component{
     render(){
     return (
     <div className="main">
-        <div className="nav">
-            <h1>To Do List</h1>
-        </div>
-        <Todo />
-        <Addlist />
+        <Todolist / >
+        
     </div>
     )
 }

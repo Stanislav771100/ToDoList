@@ -7,14 +7,16 @@
 
 }
 .block-list h1 {
+    
     text-align: center;
     color: white;
 }
 .block-list input {
+    margin-top: 50px;
     width: 80%;
     
-    margin-left: 60px;
+    margin-left: 40px;
 }
 button {
-    margin-left: 25px;
+    margin-left: 0px;
 }
